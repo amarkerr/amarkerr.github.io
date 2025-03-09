@@ -4,4 +4,4 @@ plugins:
 title: [Amanda Kerr]
 #logo: 
 description: [Student]
-show_downloads: [true]
+show_downloads: [false]
