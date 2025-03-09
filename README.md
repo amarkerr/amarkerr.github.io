@@ -1,4 +1,7 @@
-# Projects
+# amarkerr.github.io
+
+
+## Projects
 ### Project 1
 - Description
 - Links
@@ -7,11 +10,11 @@
 - Description
 - Links
 
-# Education
+## Education
 - Degree 1
 - Degree 2
 - Cert
 
-# Employment History
+## Employment History
 - Workplace 1
 - Workplace 2
