@@ -1,4 +1,4 @@
-# amarkerr.github.io
+# Computer Science Captsone ePortfolio
 
 ## Intro
 - Content
@@ -23,3 +23,6 @@ The first enhancement focuses on software design and engineering (link to come).
 The second enhancement focuses on algorithms and data structures (link to come). In this enhancement...
 
 The final enhancement focuses on databases (link to come). In this enhancement...
+
+___
+###### amarkerr.github.io
