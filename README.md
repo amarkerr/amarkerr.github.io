@@ -3,12 +3,13 @@
 
 ## 🔹 Intro 🔹
 Hi, I’m Amanda Kerr! As a Computer Science major specializing in software engineering, I am increasingly interested in creating tools that promote accessibility and inclusive design. For my final project at SNHU, I improved a calendar application I had developed earlier in the program to align it more closely with industry standards and contemporary architecture.
-
-This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction. Although the app currently falls short of achieving the complete level of accessibility I strive for in my projects, this process demonstrates my dedication to crafting clean, maintainable code and developing intuitive user experiences that align with that goal.
 <br/>
 <br/>
 
-## 🔹 Self Assessment 🔹
+## 🔹 Self-Assessment 🔹
+<details>
+<summary>Reflecting on the CS program and capstone</summary>
+<br/>
 During the Computer Science program, I acquired both technical skills and a professional mindset essential for success in software development. Creating this ePortfolio allowed me to reflect on my journey, evolving from writing simple components to developing scalable, cloud-based applications that adhere to modern architectural patterns. This process also enabled me to critically evaluate my long-term aspirations: to create intuitive, inclusive, and well-designed software.
 
 I acquired many of my skills through hands-on coursework, applying fundamental concepts to real-world scenarios. I gained significant experience in collaborative settings, especially during team projects that utilized version control, shared responsibilities, and peer code reviews. In these situations, I became proficient in using Git, effectively communicating changes, and contributing to a shared codebase. A notable instance was during the elective course, [GAM-305](https://github.com/amarkerr/GAM305-BlueTeam), where I guided a small team of developers in creating a short platformer video game. Besides leading the team, I dedicated much of my time to teaching them how to use Git and GitHub effectively and helping resolve several merge conflicts.
@@ -22,6 +23,7 @@ Security has increasingly influenced my approach to software development. In thi
 All these skills come together in the project presented here. Rather than submitting multiple artifacts, I concentrated on enhancing a single Android application in three key areas: software design and architecture, algorithms and data handling, and database integration. Each enhancement addresses a fundamental aspect of computer science while improving the app's core features, resulting in a refined final product. This approach allowed me to demonstrate my technical versatility and ability to iteratively improve a project, emphasizing long-term maintainability and user experience.
 
 Looking forward, I hope to pursue roles that enable me to create tools that prioritize accessibility and usability. This capstone experience has boosted my confidence in my abilities, highlighted the importance of thoughtful design, and enhanced my understanding of how to contribute meaningfully to a development team. I am eager to continue my growth as a developer and apply these skills in a professional environment.
+</details>
 <br/>
 <br/>
 
@@ -31,7 +33,7 @@ Before starting this project's enhancement phase, I reviewed the original codeba
 <br/>
 
 ## 🔹 Enhancements 🔹
-In this project, I enhanced three key components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution.
+In this project, I enhanced three key components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution. This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction.
 <br/>
 Repository branches can be found here:
 - [Original](https://github.com/amarkerr/amarkerr.github.io/tree/Original "Original")
