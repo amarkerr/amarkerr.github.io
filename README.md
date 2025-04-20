@@ -43,7 +43,7 @@ Repository branches can be found here:
 
 
 ## 🔹 Final Showcase 🔹
-- Link
+[![Final Showcase](https://img.youtube.com/vi/a027BTkAzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=a027BTkAzKo)
 
 ___
 ###### amarkerr.github.io
