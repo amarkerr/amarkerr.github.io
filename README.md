@@ -43,14 +43,42 @@ Repository branches can be found here:
 
 ## 🔹 Final Showcase 🔹
 
-<br/>
 <details>
 <summary>Final Enhancement Images</summary>
-<br>
-images go here
+<br/>
+
+|                                       |                                       |
+|:-------------------------------------:|:-------------------------------------:|
+| ![alt text][login]| ![alt text][register]|
+| ![alt text][activity]| ![alt text][create]|
+| ![alt text][appt]| ![alt text][appt2]|
+| ![alt text][edit]| ![alt text][settings]|  
+
+[login]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/login.jpg "login view"
+[activity]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/activity.jpg "activity view"
+[appt]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/apptview.jpg "activity view with appointment"
+[appt2]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/apptview2.jpg "appointment view"
+[create]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/createview.jpg "create appointment view"
+[edit]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/editview.jpg "edit appointment view"
+[register]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/register.jpg "register view"
+[settings]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/settingsview.jpg "settings view with darkmode checked"
 </details>
 <br/>
 
+<br/>
+<details>
+<summary>Firestore Images</summary>
+<br>
+  
+![alt text][fire]
+<br/>
+![alt text][fire2]
+
+[fire]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview.jpg "View of appointment data in Firestore"
+[fire2]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview2.jpg "View of settings data in Firestore"
+
+</details>
+<br/>
 
 
 
