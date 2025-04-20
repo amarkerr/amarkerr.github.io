@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme 
 title: [Amanda Kerr]
 logo: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/logo.png?raw=true
-description: [Student Developer || Inclusive Design]
+description: [Student Developer || Inclusive Design
+Graduation May, 2025]
 show_downloads: false
