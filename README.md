@@ -66,18 +66,15 @@ Repository branches can be found here:
 <br/>
 
 <br/>
-<details>
-<summary>Firestore Images</summary>
-<br>
-  
+
+### Firestore Images
+
 ![alt text][fire]
-<br/>
+
 ![alt text][fire2]
 
 [fire]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview.jpg "View of appointment data in Firestore"
 [fire2]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview2.jpg "View of settings data in Firestore"
-
-</details>
 <br/>
 
 
