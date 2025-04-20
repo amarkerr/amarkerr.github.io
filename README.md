@@ -32,14 +32,16 @@ Before starting this project's enhancement phase, I reviewed the original codeba
 
 ## 🔹 Enhancements 🔹
 In this project, I enhanced three key components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution.
+<br/>
+Repository branches can be found here:
+- [Original](https://github.com/amarkerr/amarkerr.github.io/tree/Original "Original")
+- [Enhancement One](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-1 "Enhancement One")
+- [Enhancement Two](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-2 "Enhancement Two")
+- [Enhancement Three](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-3 "Enhancement Three")
+<br/>
+<br/>
 
-The [initial version](https://github.com/amarkerr/CS499Capstone/tree/original "Original Branch") of this project was developed in my CS-360 course and functioned as a simple Android app for event management. Users could register, log in, and create, edit, or delete events displayed as a list on the main screen. The app also included basic SMS reminders to alert users on the day of each scheduled event. While it was functional, the original version offered numerous opportunities to enhance its structure, scalability, and user experience, making it an ideal candidate for upgrades.
-
-For [Enhancement One](https://github.com/amarkerr/CS499Capstone/tree/Enhancement1 "Enhancement One"), I focused on refining the app's structure and maintainability by shifting from an activity-based architecture to the Model-View-ViewModel (MVVM) pattern. This change involved organizing the UI, business logic, and data management into separate layers, leading to more modular and testable code. Additionally, I upgraded the basic event list to a comprehensive calendar view, improving scheduled events' usability and clarity. Furthermore, I replaced the original SMS notification system with a modern push notification solution. Currently, notifications are sent once daily, but plans are in place for enhancements that will enable users to choose their preferred alert times.
-
-The [second enhancement](https://github.com/amarkerr/CS499Capstone/tree/Enhancement2 "Enhancement Two") aimed to better organize, filter, and display event data within the application. Previously, events appeared in a flat list, lacking relevance to the current day or context. During the refactor, I introduced logic to dynamically query and present events based on the selected date in the calendar view. This involved reworking how event data flowed through the ViewModel layer and was displayed in the UI. By optimizing the data flow and applying more focused filtering, the app became capable of loading only essential events. These adjustments improved both performance and user experience, showcasing a more systematic approach to data handling in a mobile setting.
-
-The [final enhancement](https://github.com/amarkerr/CS499Capstone/tree/Enhancement2 "Enhancement Three") replaced the app’s original SQLite setup with Firebase Firestore for better cloud-based and scalable data management. After setting up the Firebase project and integrating the required SDKs, I swapped out local database interactions for Firestore queries. A new UserRepository was created to handle authentication and user data, leading to updates in the login and registration processes. The Event class and all related data-handling components were restructured to work with Firestore. The old DatabaseHelper class was completely removed, and preference settings were updated to store values using Firebase-supported methods. Each module underwent incremental testing to confirm proper integration with the new backend.
+## 🔹 Final Showcase 🔹
 
 <br/>
 <details>
@@ -49,13 +51,6 @@ images go here
 </details>
 <br/>
 
-Repository branches with only Java files and narrative documents can be found here:
-- [Original](https://github.com/amarkerr/amarkerr.github.io/tree/Original "Original")
-- [Enhancement One](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-1 "Enhancement One")
-- [Enhancement Two](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-2 "Enhancement Two")
-- [Enhancement Three](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-3 "Enhancement Three")
-<br/>
-<br/>
 
 
 
