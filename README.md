@@ -1,7 +1,7 @@
 # Computer Science Captsone ePortfolio
 <br/>
 
-## 🔹 Intro 🔹
+<center><h2>🔹 Intro 🔹</h2></center>
 Hi, I’m Amanda Kerr! I'm a Computer Science major specializing in software engineering, and I'm interested in creating tools that promote accessibility and inclusive design. For my final project at SNHU, I improved a calendar application I had developed earlier in the program to align it more closely with industry standards and contemporary architecture.
 <br/>
 <br/>
@@ -41,7 +41,7 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 
 ## 🔹 Code Review 🔹
 Prior to beginning the project, I conducted a code review for the original Android app. In the following video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall.
-</br>
+<br/>
 
 Link
 <br/>
