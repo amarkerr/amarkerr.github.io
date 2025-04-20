@@ -41,7 +41,9 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 
 ## 🔹 Code Review 🔹
 Prior to beginning the project, I conducted a code review for the original Android app. In the following video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall.
-- Link
+</br>
+
+Link
 <br/>
 <br/>
 
@@ -55,11 +57,13 @@ Repository branches can be found here:
 - [Enhancement Two](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-2 "Enhancement Two")
 - [Enhancement Three](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-3 "Enhancement Three")
 - [App Views](https://github.com/amarkerr/amarkerr.github.io/tree/Assets "Screenshots of the working app")
-
 <br/>
 <br/>
 
 ## 🔹 Final Showcase 🔹
+The following video shows a simple walkthrough of the UI/UX changes and includes a side-by-side with the Firebase live data.
+<br/>
+
 [![Final Showcase](https://img.youtube.com/vi/a027BTkAzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=a027BTkAzKo)
 
 ___
