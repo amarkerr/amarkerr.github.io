@@ -1,4 +1,4 @@
-# Computer Science Captsone
+<center><h1>Computer Science Captsone</h1></center>
 <br/>
 
 <center><h2>🔹 Intro 🔹</h2></center>
