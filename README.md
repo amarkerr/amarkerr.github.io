@@ -2,7 +2,7 @@
 <br/>
 
 ## 🔹 Intro 🔹
-Hi, I’m Amanda Kerr! As a Computer Science major specializing in software engineering, I am increasingly interested in creating tools that promote accessibility and inclusive design. For my final project at SNHU, I improved a calendar application I had developed earlier in the program to align it more closely with industry standards and contemporary architecture.
+Hi, I’m Amanda Kerr! I'm a Computer Science major specializing in software engineering, and I'm interested in creating tools that promote accessibility and inclusive design. For my final project at SNHU, I improved a calendar application I had developed earlier in the program to align it more closely with industry standards and contemporary architecture.
 <br/>
 <br/>
 
@@ -40,14 +40,13 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 <br/>
 
 ## 🔹 Code Review 🔹
-Before starting this project's enhancement phase, I reviewed the original codebase for the calendar application. I walked through the existing features, noted areas where the structure and functionality could be improved, and outlined specific updates in three key areas: software design, algorithm performance, and database integration. I created a video walkthrough of the code review to document this process and share my thought process. In the video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall. This review served as the foundation for the technical improvements that followed.
+Prior to beginning the project, I conducted a code review for the original Android app. In the following video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall.
 - Link
 <br/>
 <br/>
 
 ## 🔹 Enhancements 🔹
-In this project, I enhanced three key components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution. This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction.
-<br/>
+In this project, I enhanced three components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution. This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction.
 <br/>
 
 Repository branches can be found here:
@@ -56,8 +55,9 @@ Repository branches can be found here:
 - [Enhancement Two](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-2 "Enhancement Two")
 - [Enhancement Three](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-3 "Enhancement Three")
 - [App Views](https://github.com/amarkerr/amarkerr.github.io/tree/Assets "Screenshots of the working app")
-<br/>
 
+<br/>
+<br/>
 
 ## 🔹 Final Showcase 🔹
 [![Final Showcase](https://img.youtube.com/vi/a027BTkAzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=a027BTkAzKo)
