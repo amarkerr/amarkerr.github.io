@@ -1,28 +1,12 @@
-# Computer Science Captsone ePortfolio
+# Enhancement Two: Algorithms and Data Structures
 
-## Intro
-- Content
-- Content
+The second enhancement aimed to better organize, filter, and display event data within the application. Previously, events appeared in a flat list, lacking relevance to the current day or context. During the refactor, I introduced logic to dynamically query and present events based on the selected date in the calendar view. This involved reworking how event data flowed through the ViewModel layer and was displayed in the UI. By optimizing the data flow and applying more focused filtering, the app became capable of loading only essential events. These adjustments improved both performance and user experience, showcasing a more systematic approach to data handling in a mobile setting.
 
-## Self Assessment
-- Content
-- Content
-
-## Code Review
-- Content
-- Content
-- Link
-
-## Narratives
-In this project, I primarily focused on enhancing three distinct components of a single original project. Both the original project and the three enhancement stages are available in one repository. However, each branch is linked below.
-
-The original project can be found [here](https://github.com/amarkerr/CS499Capstone/tree/original "Original Branch").
-
-The first enhancement focuses on software design and engineering (link to come). In this enhancement...
-
-The second enhancement focuses on algorithms and data structures (link to come). In this enhancement...
-
-The final enhancement focuses on databases (link to come). In this enhancement...
+<details>
+<summary>Original accompanying narrative</summary>
+<br>
+content
+</details>
 
 ___
 ###### amarkerr.github.io
