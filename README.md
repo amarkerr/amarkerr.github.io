@@ -38,44 +38,12 @@ Repository branches can be found here:
 - [Enhancement One](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-1 "Enhancement One")
 - [Enhancement Two](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-2 "Enhancement Two")
 - [Enhancement Three](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-3 "Enhancement Three")
+- [App Views](https://github.com/amarkerr/amarkerr.github.io/tree/Assets "Screenshots of the working app")
 <br/>
-<br/>
+
 
 ## 🔹 Final Showcase 🔹
-
-<details>
-<summary>Final Enhancement Images</summary>
-<br/>
-
-|                                       |                                       |
-|:-------------------------------------:|:-------------------------------------:|
-| ![alt text][login]| ![alt text][register]|
-| ![alt text][activity]| ![alt text][create]|
-| ![alt text][appt]| ![alt text][appt2]|
-| ![alt text][edit]| ![alt text][settings]|  
-
-[login]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/login.jpg "login view"
-[activity]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/activity.jpg "activity view"
-[appt]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/apptview.jpg "activity view with appointment"
-[appt2]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/apptview2.jpg "appointment view"
-[create]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/createview.jpg "create appointment view"
-[edit]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/editview.jpg "edit appointment view"
-[register]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/register.jpg "register view"
-[settings]: https://github.com/amarkerr/amarkerr.github.io/blob/Assets/settingsview.jpg "settings view with darkmode checked"
-</details>
-<br/>
-
-<br/>
-
-### Firestore Images
-
-![alt text](https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview.jpg "View of appointment data in Firestore")
-
-![alt text](https://github.com/amarkerr/amarkerr.github.io/blob/Assets/firestoreview2.jpg "View of settings data in Firestore")
-
-<br/>
-
-
+- Link
 
 ___
 ###### amarkerr.github.io
