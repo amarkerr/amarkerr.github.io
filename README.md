@@ -22,11 +22,11 @@ Effective communication has also been a consistent focus in my coursework. From 
 <br/>
 <br/>
 
-From a technical standpoint, I've enhanced my understanding of data structures and algorithms through projects that emphasized performance considerations. For instance, my work in [CS-300](https://github.com/amarkerr/CS300-BinaryTree) necessitated a clear grasp of various data structures to identify the most suitable one for a small project, which I then built. Additionally, my knowledge in software engineering and database management has grown considerably. This growth is evident when comparing one of my initial projects in [IT-140](https://github.com/amarkerr/IT140-Game), where I utilized basic console output and a simple Python dictionary, to my project in [CS-340](https://github.com/amarkerr/CS340-ClientServerDev), where I engaged with a NoSQL database and developed a web application that allowed users to search the database effortlessly.
+From a technical standpoint, I've enhanced my understanding of data structures and algorithms through projects that emphasized performance considerations. For instance, my work in <a href="https://github.com/amarkerr/CS300-BinaryTree">CS-300</a> necessitated a clear grasp of various data structures to identify the most suitable one for a small project, which I then built. Additionally, my knowledge in software engineering and database management has grown considerably. This growth is evident when comparing one of my initial projects in <a href="https://github.com/amarkerr/IT140-Game">IT-140</a>, where I utilized basic console output and a simple Python dictionary, to my project in <a href="https://github.com/amarkerr/CS340-ClientServerDev">CS-340</a>, where I engaged with a NoSQL database and developed a web application that allowed users to search the database effortlessly.
 <br/>
 <br/>
 
-Security has increasingly influenced my approach to software development. In this project, I substituted insecure login methods with Firebase Fireauth. Reviewing my repository history reveals that my development practices did not always prioritize security. This shifted significantly after taking CS-305. Even in light-hearted personal projects like my [Discord bot](https://github.com/amarkerr/ReplyBot), which posts a GIF when users employ a specific word, my code utilizes a hidden token for secure operation rather than being hardcoded into the script.
+Security has increasingly influenced my approach to software development. In this project, I substituted insecure login methods with Firebase Fireauth. Reviewing my repository history reveals that my development practices did not always prioritize security. This shifted significantly after taking CS-305. Even in light-hearted personal projects like my <a href="https://github.com/amarkerr/ReplyBot">Discord bot</a>, which posts a GIF when users employ a specific word, my code utilizes a hidden token for secure operation rather than being hardcoded into the script.
 <br/>
 <br/>
 
@@ -43,10 +43,13 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 Before starting this project's enhancement phase, I reviewed the original codebase for the calendar application. I walked through the existing features, noted areas where the structure and functionality could be improved, and outlined specific updates in three key areas: software design, algorithm performance, and database integration. I created a video walkthrough of the code review to document this process and share my thought process. In the video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall. This review served as the foundation for the technical improvements that followed.
 - Link
 <br/>
+<br/>
 
 ## 🔹 Enhancements 🔹
 In this project, I enhanced three key components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution. This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction.
 <br/>
+<br/>
+
 Repository branches can be found here:
 - [Original](https://github.com/amarkerr/amarkerr.github.io/tree/Original "Original")
 - [Enhancement One](https://github.com/amarkerr/amarkerr.github.io/tree/Enhancement-1 "Enhancement One")
