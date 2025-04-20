@@ -1,12 +1,13 @@
-# Computer Science Captsone ePortfolio
+# Computer Science Captsone
 <br/>
 
 <center><h2>🔹 Intro 🔹</h2></center>
+<hr>
 Hi, I’m Amanda Kerr! I'm a Computer Science major specializing in software engineering, and I'm interested in creating tools that promote accessibility and inclusive design. For my final project at SNHU, I improved a calendar application I had developed earlier in the program to align it more closely with industry standards and contemporary architecture.
 <br/>
 <br/>
 
-## 🔹 Self-Assessment 🔹
+<center><h2>🔹 Self-Assessment 🔹</h2></center>
 <details>
 <summary>Reflecting on the CS program and capstone</summary>
 <br/>
@@ -39,7 +40,7 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 <br/>
 <br/>
 
-## 🔹 Code Review 🔹
+<center><h2>🔹 Code Review 🔹</h2></center>
 Prior to beginning the project, I conducted a code review for the original Android app. In the following video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall.
 <br/>
 
@@ -47,7 +48,7 @@ Link
 <br/>
 <br/>
 
-## 🔹 Enhancements 🔹
+<center><h2>🔹 Enhancements 🔹</h2></center>
 In this project, I enhanced three components of the original application to showcase development in vital computer science areas: software design and engineering, algorithms and data structures, and databases. Each enhancement reflects a dedicated effort to align the project with industry best practices and illustrates my ability to transform an existing codebase into a more maintainable and user-friendly solution. This project involved shifting the backend from SQLite to Firebase for scalable, cloud-based storage, restructuring it into a modular MVVM pattern, and adding a calendar view to enhance user interaction.
 <br/>
 
@@ -60,7 +61,7 @@ Repository branches can be found here:
 <br/>
 <br/>
 
-## 🔹 Final Showcase 🔹
+<center><h2>🔹 Final Showcase 🔹</h2></center>
 The following video shows a simple walkthrough of the UI/UX changes and includes a side-by-side with the Firebase live data.
 <br/>
 
