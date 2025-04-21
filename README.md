@@ -50,7 +50,7 @@ Looking forward, I hope to pursue roles that enable me to create tools that prio
 Prior to beginning the project, I conducted a code review for the original Android app. In the following video, I explain how the original code worked, what changes were needed, and how the planned enhancements would improve the application overall.
 <br/>
 
-Link
+[![Code review](https://img.youtube.com/vi/jewvY3ZYveE/maxresdefault.jpg)](https://www.youtube.com/watch?v=jewvY3ZYveE)
 <br/>
 <br/>
 <hr>
